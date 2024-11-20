@@ -12,6 +12,7 @@
     # git config --global user.email "gmmg33@gmail.com"
     # git init
     # git status
-    # git add .
+    # git add . (always before commit)
     # git commit -m "first commit"
     # git log
+    # q - exit
