@@ -12,3 +12,6 @@
     # git config --global user.email "gmmg33@gmail.com"
     # git init
     # git status
+    # git add .
+    # git commit -m "first commit"
+    # git log
